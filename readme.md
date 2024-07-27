@@ -10,6 +10,8 @@
 * git log --oneline ----- ver commit mas detallado
 * git show ----
 * git pull --- jala o actualiza del remoto al local
+* git checkout -b eduardo ---- crear una rama
+* git checkout main ---- volver  a rama principal
 
 
 
