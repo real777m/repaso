@@ -9,7 +9,7 @@
 * git log ---- ver los commit y datos
 * git log --oneline ----- ver commit mas detallado
 * git show ----
-* hola
+* git pull --- jala o actualiza del remoto al local
 
 
 
