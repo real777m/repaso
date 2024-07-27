@@ -4,6 +4,7 @@
 * git status -----ver 
 * git add index.html----- agregar conmit
 * git commit -m" agregar "
+* git add .
 * git add -A ---- agregar por bloque
 * git log ---- ver los commit y datos
 * git log --oneline ----- ver commit mas detallado
@@ -22,6 +23,8 @@ echo "# repaso" >> README.md
 * git remote add origin https://github.com/real777m/repaso.git
 * git push -u origin main
 
+## enlazar 
+
 * git remote add origin https://github.com/real777m/repaso.git
-* git branch -M main
+* git branch -M main ---- cambia nombre ala rama
 * git push -u origin main
